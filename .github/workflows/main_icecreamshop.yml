@@ -59,4 +59,4 @@ jobs:
           app-name: 'icecreamshop'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D235F3AF1A742AB942E2ACD16B0FA9B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1473C10168FE4FEEA481543B8C5C53B3 }}
